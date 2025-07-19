@@ -6,6 +6,7 @@ React Movie Explorer is a movie browsing app built with **React.js**, featuring:
 - 🎨 **Beautiful, responsive UI** inspired by Netflix’s sleek card layout  
 - 🔍 **Real‑time “Most Searched”** tracker to highlight the film users are hunting for the most  
 - ⚡️ **Performance optimizations**: lazy‑loading, code splitting, and memoization  
+- 📱 **Responsive Design**: Looks great on mobile, tablet, and desktop.
 
 ## 🚀 Features
 
@@ -18,13 +19,13 @@ React Movie Explorer is a movie browsing app built with **React.js**, featuring:
 
 - **React.js** (Create React App)  
 - **TailwindCSS** for utility‑first styling  
-- **Fetch API** for HTTP requests  
-- **React Router** for client‑side routing  
+- **Fetch API** for HTTP requests
+- **Appwrite** for backend services
 
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/movieflix.git
-cd movieflix
+git clone https://github.com/vladimirov321/movie-app.git
+cd movie-app
 npm install
-npm start
+npm run dev
